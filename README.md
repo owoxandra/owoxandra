@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @owoxandra
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning CSS
